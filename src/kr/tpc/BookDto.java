@@ -11,4 +11,11 @@ public class BookDto {
   public BookDto() {
     // 객체를 생성하는 작업한다. (기계어 코드)
   }
+
+  public BookDto(String title, int price, String company, int page) {
+    this.title = title;
+    this.price = price;
+    this.company = company;
+    this.page = page;
+  }
 }
