@@ -1,3 +1,5 @@
+package part1;
+
 import kr.bit.Book;
 import kr.bit.PersonVo;
 

@@ -1,4 +1,5 @@
-import kr.tpc.Animal;
+package part2;
+
 import kr.tpc.Cat;
 import kr.tpc.Dog;
 

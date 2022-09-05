@@ -1,10 +1,12 @@
+package part1;
+
 import kr.tpc.MovieVo;
 
 public class TPC17 {
 
   // 영화 3편을 저장 -> 객체배열
 
-  MovieVo[] movieVOS = new MovieVo[3];
+  MovieVo[] movieVO = new MovieVo[3];
 
   public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package part1;
+
 import kr.tpc.BookVo;
 
 public class TPC12 {

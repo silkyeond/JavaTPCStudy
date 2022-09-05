@@ -1,3 +1,5 @@
+package part1;
+
 import kr.tpc.Inflearn;
 
 public class TPC31 {
